@@ -16,3 +16,4 @@ while True:
     if again != "yes":
         break
 #I will add more features soon.#
+#𓅆 Squaaawk!#
